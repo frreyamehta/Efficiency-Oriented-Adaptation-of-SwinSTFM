@@ -1,5 +1,3 @@
-# Efficiency Oriented Adaptation of SwinSTFM for Spatiotemporal Satellite Image Fusion
-
 # Efficiency-Oriented Adaptation of SwinSTFM for Spatiotemporal Satellite Image Fusion
 
 An efficiency-focused adaptation of **SwinSTFM (Remote Sensing Spatiotemporal Fusion Using Swin Transformer)** that replaces the original Swin-Tiny backbone with a lightweight Swin-Nano variant to reduce training cost while retaining reconstruction quality.
